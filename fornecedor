@@ -1,9 +1,0 @@
-
-spring:
-  datasource:
-    password: root
-    username: master
-    url: 'jdbc:mysql://localhost:3306/fornecedor_micro?serverTimezone=UTC'
-  jpa:
-    hibernate:
-      ddl-auto: update
